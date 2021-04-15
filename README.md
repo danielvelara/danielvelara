@@ -55,15 +55,17 @@ I'm currently studying **Computer Systems Engineer Student** at **Tecnológico d
 </p>
 -->
 
-## Portfolio 💼
+
 
 
 <!--
-
+## Portfolio 💼
 ## Fun fact ⚡
 ## I’m currently working on 🔭
--->
+
 ## 🌱 I’m currently learning
 - MongoDB
 - React
+
+-->
 
