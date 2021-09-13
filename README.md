@@ -2,6 +2,14 @@
 > <a href="https://www.linkedin.com/in/danielvelara/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px"></a>
 > ![](https://komarev.com/ghpvc/?username=danielvelara&color=red)
 
+<!--- 
+
+## About Me
+> Summary of who you are, what kind of career you're looking for
+- Passion, Future 
+- *Hi! I’m Daniel, I’m in my senior year at Tec de Monterrey, studying Computer Systems Engineering and working at HP as a Software Engineer Intern.  I enjoy being able to help people and solve problems, so I’m looking forward to putting my tech skills into practice by working as as Software Engineer.*
+- *I’ve learned a lot about computer systems and programming and I’m looking for  position where I can focus on large scale software with high impact.*
+--->
 
 ## Education
 - **Instituto Tecnológico y de Estudios Superiores de Monterrey** (ITESM) - Guadalajara, Jalisco, México
@@ -12,6 +20,10 @@
   - Winter 2020
 
 ## Work Experience
+
+<!---
+Accomplish X as measured by Y by doing Z
+--->
 
 - **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
     > *R&D Software Engineering Intern* | June 2021 - **Present**
