@@ -74,6 +74,8 @@
 - **Languages**
     - Spanish (Native)
     - English (Advanced): TOEFL C1
+
+<!---
 - **Soft Skills**
     - Team Player
     - People-oriented
@@ -82,6 +84,7 @@
     - Time Management
     - Communication Skills
     - Writing Skills
+--->
 
 ## Relevant Coursework & Certifications
 - *IT Automation with Python Professional Certificate* by Google/Coursera
