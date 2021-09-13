@@ -1,71 +1,97 @@
-# Hello There! I'm Daniel 👋 
-![](https://komarev.com/ghpvc/?username=danielvelara&color=red)
-
-<!--
-<p align="center">
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-   Full Stack | System Design | Micro Services | Competetive Programming | Machine Learning   
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</p>
--->
+# Hello There! I'm Daniel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
+> <a href="https://www.linkedin.com/in/danielvelara/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px"></a>
+> ![](https://komarev.com/ghpvc/?username=danielvelara&color=red)
 
 
+## Education
+- **Instituto Tecnológico y de Estudios Superiores de Monterrey** (ITESM) - Guadalajara, Jalisco, México
+  - B.S. Engineer’s Degree in Computer Systems Engineering
+  - August 2018 - December 2022 (Expected)
+- **42 University Silicon Valley** - Fremont, California, USA
+  - C Piscine
+  - Winter 2020
 
-I'm currently studying **Computer Systems Engineer Student** at **Tecnológico de Monterrey** Campus Guadalajara in my Senior year 🇲🇽
+## Work Experience
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=danielvelara&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
+    > *R&D Software Engineering Intern* | June 2021 - **Present**
+    - Developed/Refactored internal tools using modern web technologies with React/Redux
+    - Helped move legacy applications to AWS using CloudFormation
+    - Reduced deploy time up-to 70% by implementing a CI/CD pipeline using AWS CodeCommit which helped product managers validate features 2x faster.
+    - Collaborated with multi-national and cross-functional teams using an Agile methodologies 
+- **Uber** - Guadalajara, Jalisco, México
+    > *Software Engineering Academic Internship* | Summer 2021
+    - Helped the Analytics Team on refactoring multiple Juypter Notebooks into a fully featured microservice
+- **Usuma México** (Non-Profit Education Center) - Guadalajara, Jalisco, México
+    > *Web Developer Intern (Volunteering)* | Dec 2020 - March 2021
+    - Created and maintained a website and using HTML/CSS/JS and deployed to Heroku for a Non-Profit focused on educating children from low-income families
+    - Implemented a Paypal donations feature, making in the most popular (55%) way of donating to the association
+- **Bright** (Solar Technology Company) - Guadalajara, Jalisco, México
+    > Software Development Intern & Sales Rep | June 2019 - Jan 2020
+    - Developed Python Scripts for automating and accelerating in-house systems for project budgeting reducing 90% of manual work for the Sales Team
+    - Competitively analyzed new domestic solar projects in local and regional territories
+    - Performed comprehensive market research on multiple solar technologies
+- **DMSolar** (Solar Energy technologies distributor) - Guadalajara, Jalisco, México
+    > *IT Assistant* | Summer 2018
+    - Help the company staff to enforce multiple cybersecurity protection policies
+    - Assisted in the migration of G-Suite to Office 365 across the company
+    - Generated automated daily reports five times faster for the Sales team using SAP compared to the previous Excel implementation
+- **Kumon** - Guadalajara, Jalisco, México
+    > *Math Teaching Assistant* | 2015 - 2017
+    - *Helped and assisted dozen of students in math related problems ranging from basic Arithmatic to Calculus*
 
-
-
-
-
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-## How to reach me 📫:
-<p align="left">
-  <a href="https://twitter.com/danielvelara">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  </a>  
-
-  <a href="https://www.linkedin.com/in/danielvelara/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
-
-<!--
-  <a href="https://www.instagram.com/danielvelara/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-  </a>
--->
-<!--
-  <a href="https://www.meetup.com/members/186160064/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
-  </a>
--->
-<!--
-   <a href="https://marketplace.visualstudio.com/publishers/MikeJames">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/visualStudioExtensions.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
-  </a>
--->
-<!--
- <a href="https://www.youtube.com/c/MichaelJames6/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
-  </a>
-</p>
--->
+## Projects
+- **Pothole Detection System**, Summer 2021 - WIP
+    - Built and deployed a Mobile Application using **React Native + Expo** for users to detect potholes while driving using their smartphones sensors
+    - Created a Web Applications using **HTML/CSS/JS/React** with **Google Maps API** for displaying multiple potholes detected in a city.
+- **Covid-19 Vaccination Simulation**,  Winter 2021
+    - Built an Agent-based modeling simulation using **Python3** and **Mesa Framework** for simulating how the Covid-19 virus would spread depending on multiple variables such as vaccination, population density, age, mobility, social distancing, and use of face masks.
+- **Book Lending Service**, Summer 2020
+    - Implemented a CRUD Web Application using the MVC Pattern with Python/Flask (Backend) and HTML/CSS/Vanilla JS (frontend) with User Authentication/Authorization/Sessions with Firebase +  SQLite as the backend database for a service.
 
 
+## Technical Skills
+- **Programming Languages**
+    - Fluent: Python, JavaScript(ES6), SQL, Bash
+    - Proeficient: TypeScript, Java, C, Go
+- **Technologies**
+    - Frontend: HTML5, CSS3, React, Redux, GraphQL
+    - Backend: Django, Flask, NodeJS/Express, Linux, Firebase, Amplify, Elastic Beanstalk
+    - DevOps: Docker, AWS CloudFormation/EC2/S3/Lambda/RDS, GitHub Actions
+    - Databases: PostgreSQL, MySQL, Aurora, MongoDB, Firestore, DynamoDB
+    - App Development: React Native, Ionic, PWA
+- **Tools & Knowledge**
+    - Git/GitHub, Open Source
+    - Project Management: Agile/Scrum, Azure DevOps, Jira, Trello
+    - Unit Testing
+    - REST API's
+    - OOP + UML
+    - Regex
+    - Documentation
+    - UI/UX, Figma
+    - Data Structures & Algorithms
+    - VSCode, IntelliJ IDEA, Neovim
+- **Languages**
+    - Spanish (Native)
+    - English (Advanced): TOEFL C1
+- **Soft Skills**
+    - Team Player
+    - People-oriented
+    - Problem Solving
+    - Adaptability
+    - Time Management
+    - Communication Skills
+    - Writing Skills
+
+## Relevant Coursework & Certifications
+- *IT Automation with Python Professional Certificate* by Google/Coursera
+- *Project Management: Professional Certificate* by Google/Coursera
+- *CS50 Introduction to Computer Science* by Harvard/edX
+- *Algorithms Specialization* by Stanford/Coursera
 
 
-<!--
-## Portfolio 💼
-## Fun fact ⚡
-## I’m currently working on 🔭
-
-## 🌱 I’m currently learning
-- MongoDB
-- React
-
--->
-
+## Currently Learning 🌱
+- Design Patterns
+- System Design
+- Test Driven Development
+- AWS Certified Developer Associate
