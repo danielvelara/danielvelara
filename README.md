@@ -11,7 +11,7 @@
 
 
 
-I'm currently studying **Computer Systems Engineer Student** at **Tecnológico de Monterrey** Campus Guadalajara in my Junior year 🇲🇽
+I'm currently studying **Computer Systems Engineer Student** at **Tecnológico de Monterrey** Campus Guadalajara in my Senior year 🇲🇽
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=danielvelara&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
