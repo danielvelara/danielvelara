@@ -65,7 +65,7 @@ Accomplish X as measured by Y by doing Z
 ## Technical Skills
 - **Programming Languages**
     - Fluent: Python, JavaScript(ES6), SQL, Bash
-    - Proeficient: TypeScript, Java, C, Go
+    - Proficient: TypeScript, Java, C, Go
 - **Technologies**
     - Frontend: HTML5, CSS3, React, Redux, GraphQL
     - Backend: Django, Flask, NodeJS/Express, Linux, Firebase, Amplify, Elastic Beanstalk
