@@ -35,11 +35,11 @@ Accomplish X as measured by Y by doing Z
     > *Software Engineering Academic Internship* | Summer 2021
     - Helped the Analytics Team on refactoring multiple Juypter Notebooks into a fully featured microservice by distilling and analyzing critical parts of the codebase and making a fully working PoC of a working service.
 - **Usuma México** (Non-Profit Education Center) - Guadalajara, Jalisco, México
-    > *Web Developer Intern (Volunteering)* | Dec 2020 - March 2021
+    > *Web Developer (Volunteering)* | Dec 2020 - February 2021
     - Created and maintained a website and using HTML/CSS/JS and deployed to Heroku for a Non-Profit focused on educating children from low-income families
     - Implemented a Paypal donations feature, making in the most popular (55%) way of donating to the association
 - **Bright** (Solar Technology Company) - Guadalajara, Jalisco, México
-    > Software Development Intern & Sales Rep | June 2019 - Jan 2020
+    > *Software Development Intern & Sales Rep* | June 2019 - Jan 2020
     - Developed Python Scripts for automating and accelerating in-house systems for project budgeting reducing 90% of manual work for the Sales Team
     - Competitively analyzed new domestic solar projects in local and regional territories
     - Performed comprehensive market research on multiple solar technologies
@@ -48,9 +48,6 @@ Accomplish X as measured by Y by doing Z
     - Help the company staff to enforce multiple cybersecurity protection policies
     - Assisted in the migration of G-Suite to Office 365 across the company
     - Generated automated daily reports five times faster for the Sales team using SAP compared to the previous Excel implementation
-- **Kumon** - Guadalajara, Jalisco, México
-    > *Math Teaching Assistant* | 2015 - 2017
-    - *Helped and assisted dozen of students in math related problems ranging from basic Arithmatic to Calculus*
 
 ## Projects
 - **Pothole Detection System**, Summer 2021 - WIP
@@ -65,24 +62,24 @@ Accomplish X as measured by Y by doing Z
 ## Technical Skills
 - **Programming Languages**
     - Fluent: Python, JavaScript(ES6), SQL, Bash
-    - Proficient: TypeScript, Java, C, Go
+    - Proficient: TypeScript, Java, Go
 - **Technologies**
-    - Frontend: HTML5, CSS3, React, Redux, GraphQL
-    - Backend: Django, Flask, NodeJS/Express, Linux, Firebase, Amplify, Elastic Beanstalk
+    - Frontend: HTML5, CSS3, React/Redux, GraphQL
+    - Backend: Django, Flask, NodeJS/Express, Linux, Firebase, Elastic Beanstalk
     - DevOps: Docker, AWS CloudFormation/EC2/S3/Lambda/RDS, GitHub Actions
     - Databases: PostgreSQL, MySQL, Aurora, MongoDB, Firestore, DynamoDB
-    - App Development: React Native, Ionic, PWA
+    - App Development: React Native, PWA
 - **Tools & Knowledge**
-    - Git/GitHub, Open Source
+    - Git/GitHub
     - Project Management: Agile/Scrum, Azure DevOps, Jira, Trello
-    - Unit Testing
+    - Testing
     - REST API's
     - OOP + UML
     - Regex
     - Documentation
     - UI/UX, Figma
     - Data Structures & Algorithms
-    - VSCode, IntelliJ IDEA, Neovim
+    - JetBrains, VSCode, Neovim
 - **Languages**
     - Spanish (Native)
     - English (Advanced): TOEFL C1
