@@ -29,7 +29,7 @@ Accomplish X as measured by Y by doing Z
     > *R&D Software Engineering Intern* | June 2021 - **Present**
     - Developed/Refactored internal tools using modern web technologies with React/Redux
     - Helped move legacy applications to AWS using CloudFormation
-    - Reduced deploy time up-to 70% by implementing a CI/CD pipeline using AWS CodeCommit which helped product managers validate features 2x faster.
+    - <!--- Reduced deploy time up-to 70% by implementing a CI/CD pipeline using AWS CodeCommit which helped product managers validate features 2x faster.--->
     - Collaborated with multi-national and cross-functional teams using an Agile methodologies 
 - **Uber México** - Guadalajara, Jalisco, México
     > *Software Engineering Academic Internship* | Summer 2021
