@@ -73,7 +73,7 @@ Accomplish X as measured by Y by doing Z
     - Git/GitHub
     - Project Management: Agile/Scrum, Azure DevOps, Jira, Trello
     - Testing
-    - REST API's
+    - REST API's, OpenAPI, Swagger
     - OOP + UML
     - Regex
     - Documentation
