@@ -1,9 +1,14 @@
 # Hello There! I'm Daniel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
+
+
+
 > <a href="https://www.linkedin.com/in/danielvelara/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px"></a>
 > ![](https://komarev.com/ghpvc/?username=danielvelara&color=red)
 
-<!--- 
 
+
+<!--- 
+[![Hello there, I'm Daniel!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f468-1f3fb-200d-1f4bb&text=Hello%2520there%252C%2520I%27m%2520Daniel%21)](https://pimp-my-readme.webapp.io)
 ## About Me
 > Summary of who you are, what kind of career you're looking for
 - Passion, Future 
