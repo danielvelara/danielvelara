@@ -1,8 +1,9 @@
 # Hello There! I'm Daniel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
 
+<!---
 > <a href="https://www.linkedin.com/in/danielvelara/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" ></a>
 > ![](https://komarev.com/ghpvc/?username=danielvelara&color=red)
-
+--->
 
 ## Education
 - **Instituto Tecnológico y de Estudios Superiores de Monterrey** (ITESM) - Guadalajara, Jalisco, México
