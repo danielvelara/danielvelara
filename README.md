@@ -87,7 +87,7 @@
 - *Algorithms Specialization* by Stanford/Coursera
 
 
-## Currently Learning 🌱
+## Currently Learning
 - Design Patterns
 - System Design
 - Test Driven Development
