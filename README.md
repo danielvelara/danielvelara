@@ -50,8 +50,8 @@
 
 ## Technical Skills
 - **Programming Languages**
-    - Fluent: Python, JavaScript, SQL, Bash
-    - Proficient: TypeScript, Java, Go
+    - Fluent: Python, JavaScript, SQL
+    - Proficient: TypeScript, Java, Go, Bash
 - **Technologies**
     - Frontend: HTML5, CSS3, React/Redux, GraphQL
     - Backend: Django, Flask, NodeJS/Express, Linux, Firebase, Elastic Beanstalk
