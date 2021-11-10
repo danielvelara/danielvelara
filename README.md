@@ -5,6 +5,8 @@
 > ![](https://komarev.com/ghpvc/?username=danielvelara&color=red)
 --->
 
+
+
 ## Education
 - **Instituto Tecnológico y de Estudios Superiores de Monterrey** (ITESM) - Guadalajara, Jalisco, México
   > *B.S. Engineer’s Degree in Computer Systems Engineering* | August 2018 - December 2022 (Expected)
@@ -14,6 +16,7 @@
 ## Work Experience
 
 <!--- Accomplish X as measured by Y by doing Z --->
+<!--- Include Team Player/People-oriented/Problem Solving/ Adaptability/Time Management/Communication Skills --->
 
 - **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
     > *R&D Software Engineering Intern* | June 2021 - **Present**
@@ -51,10 +54,10 @@
 ## Technical Skills
 - **Programming Languages**
     - Fluent: Python, JavaScript, SQL
-    - Proficient: TypeScript, Java, Go, Bash
+    - Proficient: TypeScript, Go, Bash, Java
 - **Technologies**
     - Frontend: HTML5, CSS3, React/Redux, GraphQL
-    - Backend: Django, Flask, NodeJS/Express, Linux, Firebase, Elastic Beanstalk
+    - Backend: Django, Flask, NodeJS/Express, Linux, Firebase
     - DevOps: Docker, AWS, GitHub Actions
     - Databases: PostgreSQL, SQLite, MongoDB, Firestore, DynamoDB
     - App Development: React Native, PWA
@@ -69,16 +72,6 @@
     - Spanish (Native)
     - English (Advanced): TOEFL C1
 
-<!---
-- **Soft Skills**
-    - Team Player
-    - People-oriented
-    - Problem Solving
-    - Adaptability
-    - Time Management
-    - Communication Skills
-    - Writing Skills
---->
 
 ## Relevant Coursework & Certifications
 - *IT Automation with Python Professional Certificate* by Google/Coursera
