@@ -1,12 +1,4 @@
-
-<p align="center">
-  
 # Hello There! I'm Daniel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
-</p>
-
-<center>Centered text</center>
-
-  
 
 <!---
 > <a href="https://www.linkedin.com/in/danielvelara/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" ></a>
