@@ -5,8 +5,6 @@
 > ![](https://komarev.com/ghpvc/?username=danielvelara&color=red)
 --->
 
-
-
 ## Education
 - **Instituto Tecnológico y de Estudios Superiores de Monterrey** (ITESM) - Guadalajara, Jalisco, México
   > *B.S. Engineer’s Degree in Computer Systems Engineering* | August 2018 - December 2022 (Expected)
@@ -36,7 +34,7 @@
     - Developed **Python** Scripts for automating and accelerating in-house systems for project budgeting reducing **90%** of manual work for the Sales Team
     - Competitively analyzed new domestic solar projects in local and regional territories
     - Performed comprehensive market research on multiple solar technologies
-- **DMSolar** (Solar Energy technologies distributor) - Guadalajara, Jalisco, México
+- **DMSolar** (Solar Energy Distributor) - Guadalajara, Jalisco, México
     > *IT Assistant* | Summer 2018
     - Help the company staff to enforce multiple cybersecurity protection policies
     - Assisted in the migration of G-Suite to Office 365 across the company
@@ -63,7 +61,6 @@
     - Spanish (Native)
     - English (Advanced): TOEFL C1
 
-
 ## Projects
 - **Pothole Detection System**, Summer 2021 - WIP
     - Built and deployed a mobile application using **React Native + Expo** for users to detect potholes while driving using their smartphone sensors
@@ -73,13 +70,11 @@
 - **Book Lending Service**, Summer 2020
     - Implemented a CRUD WebApp using the **MVC** Pattern with **Python/Flask** (Backend) and **HTML/CSS/Vanilla JS** (frontend) with User Authentication/Authorization/Sessions with **Firebase** + **SQLite** as the backend database for the service.
 
-
 ## Relevant Coursework & Certifications
 - *IT Automation with Python Professional Certificate* by Google/Coursera
 - *Project Management: Professional Certificate* by Google/Coursera
 - *CS50 Introduction to Computer Science* by Harvard/edX
 - *Algorithms Specialization* by Stanford/Coursera
-
 
 ## Currently Learning
 - Design Patterns
