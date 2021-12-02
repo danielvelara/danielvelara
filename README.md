@@ -46,7 +46,7 @@
     - Proficient: TypeScript, Go, Bash, Java
 - **Technologies**
     - Frontend: HTML5, CSS3, React/Redux, GraphQL
-    - Backend: Django, Flask, NodeJS/Express, Linux, Firebase
+    - Backend: Django, Flask, FastAPI, NodeJS/Express, Linux, Firebase
     - DevOps: Docker, AWS, GitHub Actions
     - Databases: PostgreSQL, SQLite, MongoDB, Firestore, DynamoDB
     - App Development: React Native, PWA
