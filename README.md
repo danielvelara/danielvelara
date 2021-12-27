@@ -62,10 +62,10 @@
     - English (Advanced): TOEFL C1
 
 ## Projects
-- **Pothole Detection System**, Summer 2021 - WIP
+- **Pothole Detection System**, Fall 2021
     - Built and deployed a mobile application using **React Native + Expo** for users to detect potholes while driving using their smartphone sensors
     - Created a WebApp using **HTML/CSS/JS/React** using **Google Maps API** for displaying multiple potholes detected in a city.
-- **Covid-19 Vaccination Simulation**,  Winter 2021
+- **Covid-19 Vaccination Simulation**,  Summer 2021
     - Built an Agent-based modeling simulation using **Python3** and **Mesa Framework** for simulating how the Covid-19 virus would spread depending on multiple variables such as vaccination, population density, age, mobility, social distancing, and use of face masks.
 - **Book Lending Service**, Summer 2020
     - Implemented a CRUD WebApp using the **MVC** Pattern with **Python/Flask** (Backend) and **HTML/CSS/Vanilla JS** (frontend) with User Authentication/Authorization/Sessions with **Firebase** + **SQLite** as the backend database for the service.
