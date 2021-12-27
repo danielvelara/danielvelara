@@ -54,7 +54,7 @@
     - Git/GitHub
     - Project Management: Agile/Scrum, Jira
     - Unit Testing
-    - REST API's, OpenAPI, Swagger
+    - REST API's, OpenAPI/Swagger
     - OOP
     - Data Structures & Algorithms
 - **Languages**
