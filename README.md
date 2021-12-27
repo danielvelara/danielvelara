@@ -52,7 +52,7 @@
     - App Development: React Native, PWA
 - **Tools & Knowledge**
     - Git/GitHub
-    - Project Management: Agile/Scrum, Azure DevOps, Jira
+    - Project Management: Agile/Scrum, Jira
     - Unit Testing
     - REST API's, OpenAPI, Swagger
     - OOP
