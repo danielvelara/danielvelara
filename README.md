@@ -84,3 +84,4 @@
 - System Design
 - Test Driven Development
 - AWS Certified Developer Associate
+- Solidity
