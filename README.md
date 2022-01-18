@@ -27,7 +27,7 @@
     - Collaborated with multi-national and cross-functional teams using **Agile** methodologies 
 - **Uber México** - Guadalajara, Jalisco, México
     > *Software Engineering Academic Internship* | Summer 2021
-    - Assisted the Analytics Team on refactoring multiple Jupyter Notebooks into a fully featured microservice with Python/FastAPI and deployed using **Docker** by distilling and analyzing critical parts of the codebase and making a fully working PoC internal service.
+    - Assisted the Analytics Team on refactoring multiple Jupyter Notebooks into a fully featured microservice with **Python/FastAPI** and deployed using **Docker** by distilling and analyzing critical parts of the codebase and making a fully working PoC internal service.
 - **Usuma México** (Non-Profit Education Center) - Guadalajara, Jalisco, México
     > *Web Developer (Volunteering)* | Dec 2020 - February 2021
     - Created and maintained a website using **HTML/CSS/JS** deployed to **Heroku** for a Non-Profit focused on educating children from low-income families
