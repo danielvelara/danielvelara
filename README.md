@@ -22,7 +22,7 @@
 - **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
     > *R&D Software Engineering Intern* | June 2021 - **Present**
     - Developed and refactored internal tools using modern web technologies with **React/Redux**
-    - Assisted the DevOps team move legacy applications to **AWS** using **CloudFormation**
+    - Assisted the DevOps team to migrate legacy applications to **AWS** using **CloudFormation**
     <!--- - Reduced deploy time up-to 70% by implementing a CI/CD pipeline using AWS CodeCommit which helped product managers validate features 2x faster.--->
     - Collaborated with multi-national and cross-functional teams using **Agile** methodologies 
 - **Uber México** - Guadalajara, Jalisco, México
