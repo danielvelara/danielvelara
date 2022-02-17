@@ -19,6 +19,21 @@
 <!--- Accomplish X as measured by Y by doing Z --->
 <!--- Include Team Player/People-oriented/Problem Solving/ Adaptability/Time Management/Communication Skills --->
 
+<!--- 
+Keywords
+Administrative: Accompilshed Administered Approved Arranged Classified Compiled Developed Documented Maintained Manage Monitored Operated Organized Prepared Prioritized Provided Purchased Recorded Resolved Retrieved Screened Systematized
+Communication: Advixed, Arranged Clarified Communicated Conducted Contributed Coordinated Defined Enlisted Explained Helped Inpired Motivated Spoke
+Management:Accomplished Achieved Administered Analyzed Appointed Assessed Chaired Coached Consulted Contracted Controlled Coordinated Developed Directed Established Evaluated Examined Executed Implemented Improved Increased Initiated Managed Organized Planned Prepared Prioritized Produced Reviewed
+Helping: Advised Assessed Coordinated Diagnosed Facilitated Provided Served
+Creative: Apapted Crafted Designed Developed Founded Invented
+Researc: Calculated, Collected, Discovered, Evaluated, Identified, Organized, Tested
+Technical: Administed, Analyzed, Built, Constructed, Developed, Maintained, Operated, Oversaw, Programmed, Tested
+Financial: Administered, Allocated, Appraised, Audited, Budgeted, Calculated, Developed, Forecasted, Invested
+Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
+--->
+
+
+
 - **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
     > *R&D Software Engineering Intern* | June 2021 - **Present**
     - Developed and refactored internal tools using modern web technologies with **React/Redux**
