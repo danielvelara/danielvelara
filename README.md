@@ -61,7 +61,7 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 ## Technical Skills
 - **Programming Languages**
     - Fluent: Python, JavaScript, SQL
-    - Proficient: TypeScript, Go, Bash
+    - Proficient: TypeScript, Go, Bash, C
 - **Technologies**
     - Frontend: HTML5, CSS3, React/Redux, GraphQL
     - Backend: Django, Flask, FastAPI, NodeJS/Express, GNU/Linux, Firebase, Heroku
