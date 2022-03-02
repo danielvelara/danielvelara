@@ -65,7 +65,7 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 - **Technologies**
     - Frontend: HTML5, CSS3, React/Redux, GraphQL
     - Backend: Django, Flask, FastAPI, NodeJS/Express, GNU/Linux, Firebase, Heroku
-    - DevOps: Docker, AWS, GitHub Actions
+    - DevOps: Docker, AWS, GCP, GitHub Actions
     - Databases: PostgreSQL, SQLite, MongoDB, Firestore, DynamoDB
     - App Development: React Native, PWA
 - **Tools & Knowledge**
@@ -79,6 +79,12 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
     - Spanish (Native)
     - English (Advanced): TOEFL C1
 
+## Relevant Coursework & Certifications
+- **AWS Certified Developer Associate** by *AWS Training and Certification*
+- **IT Automation with Python** Professional Certificate by *Google/Coursera*
+- **Project Management: Professional Certificate** by *Google/Coursera*
+- **Algorithms Specialization** by *Stanford/Coursera*
+
 ## Projects
 - [**Pothole Detection System**](https://github.com/danielvelara/ChaleBache-rn), Fall 2021
     - Built and deployed a mobile application using **React Native + Expo** for users to detect potholes while driving using their smartphone sensors
@@ -88,11 +94,6 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 - [**ToDo's online service**](https://github.com/danielvelara/SlackyToDo), Summer 2020
     - Implemented a CRUD WebApp using the **MVC** Pattern with **Python/Flask** (Backend) and **HTML/CSS/Vanilla JS** (frontend) with User Authentication/Authorization/Sessions with **Firebase** + **SQLite** as the backend database for the service.
 
-## Relevant Coursework & Certifications
-- *IT Automation with Python Professional Certificate* by Google/Coursera
-- *Project Management: Professional Certificate* by Google/Coursera
-- *CS50 Introduction to Computer Science* by Harvard/edX
-- *Algorithms Specialization* by Stanford/Coursera
 
 ## Currently Learning
 - Design Patterns
