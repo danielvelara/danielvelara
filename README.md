@@ -75,6 +75,7 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
     - REST API's, OpenAPI/Swagger
     - OOP
     - Data Structures & Algorithms
+    - Networking
 - **Languages**
     - Spanish (Native)
     - English (Advanced): TOEFL C1
