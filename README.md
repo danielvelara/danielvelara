@@ -100,5 +100,3 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 - Design Patterns
 - System Design
 - Test Driven Development
-- AWS Certified Developer Associate
-- Solidity
