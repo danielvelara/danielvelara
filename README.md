@@ -60,22 +60,21 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 
 ## Technical Skills
 - **Programming Languages**
-    - Fluent: Python, JavaScript, SQL
-    - Proficient: TypeScript, Go, Bash, C, Java
+    - Fluent: Python, JavaScript, Go
+    - Proficient: TypeScript, SQL, Bash
 - **Technologies**
-    - Frontend: HTML5, CSS3, JavaScript(ES6) React/Redux, NextJS
-    - Backend: Django, Flask, NodeJS/Express, GNU/Linux, Heroku
+    - Frontend: HTML5, CSS3, JavaScript(ES6) React, Redux, NextJS
+    - Backend: Django, Flask, NodeJS, GNU/Linux, Heroku
     - DevOps: Docker, AWS, GitHub Actions, CloudFormation
     - Databases: PostgreSQL, SQLite, MongoDB, Firestore, DynamoDB
     - App Development: React Native, PWA
 - **Tools & Knowledge**
     - Git/GitHub
     - Project Management: Agile/Scrum, Jira
+    - Networking: REST API's, OpenAPI/Swagger, WebSockets, gRPC, GraphQL
     - Unit Testing
-    - REST API's, OpenAPI/Swagger
     - OOP
     - Data Structures & Algorithms
-    - Networking
 - **Languages**
     - Spanish (Native)
     - English (Advanced): TOEFL C1
