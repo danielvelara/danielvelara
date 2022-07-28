@@ -41,7 +41,7 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
     <!--- - Reduced deploy time up-to 70% by implementing a CI/CD pipeline using AWS CodeCommit which helped product managers validate features 2x faster.--->
     - Collaborated with multi-national and cross-functional teams using **Agile** methodologies 
 - **Uber México** - Guadalajara, Jalisco, México
-    > *Software Engineering Academic Internship* | Summer 2021
+    > *Software Engineering Academic Apprenticeship* | March 2021 - June 2021
     - Assisted the Analytics Team on refactoring multiple Jupyter Notebooks into a fully featured microservice with **Python/FastAPI** and deployed using **Docker** by distilling and analyzing critical parts of the codebase and making a fully working PoC internal service.
 - **Usuma México** (Non-Profit Education Center) - Guadalajara, Jalisco, México
     > *Web Developer (Volunteering)* | Dec 2020 - February 2021
