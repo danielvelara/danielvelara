@@ -71,7 +71,7 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 - **Tools & Knowledge**
     - Git/GitHub
     - Project Management: Agile/Scrum, Jira
-    - Networking: REST API's, OpenAPI/Swagger, WebSockets, gRPC, GraphQL
+    - Networking: REST API's, OpenAPI/Swagger, WebSockets
     - Unit Testing
     - OOP
     - Data Structures & Algorithms
