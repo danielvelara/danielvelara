@@ -35,7 +35,7 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 
 
 - **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
-    > *R&D Software Engineering Intern* | June 2021 - **Present**
+    > *R&D Software Engineering Intern* | June 2021 - July 2022
     - Developed and refactored internal tools using modern web technologies with **React/Redux**
     - Assisted the DevOps team to migrate legacy applications to **AWS** using **CloudFormation**
     <!--- - Reduced deploy time up-to 70% by implementing a CI/CD pipeline using AWS CodeCommit which helped product managers validate features 2x faster.--->
