@@ -64,7 +64,7 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
     - Proficient: SQL, Bash
 - **Technologies**
     - Frontend: HTML5, CSS3, React, Redux, NextJS
-    - Backend: Django, Flask, NodeJS, GNU/Linux, Heroku
+    - Backend: Django, FastAPI, NodeJS, GNU/Linux, Heroku
     - DevOps: Docker, AWS, GitHub Actions, CloudFormation
     - Databases: PostgreSQL, SQLite, MongoDB, Firestore, DynamoDB
     - App Development: React Native, PWA
