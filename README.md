@@ -33,7 +33,7 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 --->
 
 
-- **Softserve**  - Guadalajara, Jalisco, México
+- **SoftServe**  - Guadalajara, Jalisco, México
     > *Fullstack Software Engineering* | August 2022 - Present
     - Developing modern and scalable web applications with **React/Redux/TypeScript** + **Python/FastAPI** with **Azure**
 - **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
