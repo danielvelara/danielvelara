@@ -30,12 +30,14 @@ Researc: Calculated, Collected, Discovered, Evaluated, Identified, Organized, Te
 Technical: Administed, Analyzed, Built, Constructed, Developed, Maintained, Operated, Oversaw, Programmed, Tested
 Financial: Administered, Allocated, Appraised, Audited, Budgeted, Calculated, Developed, Forecasted, Invested
 Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
---->
-
 
 - **SoftServe**  - Guadalajara, Jalisco, México
     > *Fullstack Software Engineering* | August 2022 - Present
     - Developing modern and scalable web applications with **React/Redux/TypeScript** + **Python/FastAPI** with **Azure**
+
+--->
+
+
 - **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
     > *R&D Software Engineering Intern* | June 2021 - July 2022
     - Developed and refactored internal tools using modern web technologies with **React/Redux**
