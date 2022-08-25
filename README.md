@@ -74,11 +74,12 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
     - App Development: React Native, PWA
 - **Tools & Knowledge**
     - Git/GitHub
-    - Project Management: Agile/Scrum, Jira
+    - Project Management: Agile/Scrum, Jira, Azure DevOps
     - Networking: REST API's, OpenAPI/Swagger, WebSockets
     - Unit Testing
     - OOP
     - Data Structures & Algorithms
+    - Security: OAuth2, HTTPS, OWASP Top 10
 - **Languages**
     - Spanish (Native)
     - English (Advanced): TOEFL C1
