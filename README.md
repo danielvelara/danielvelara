@@ -64,13 +64,13 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 
 ## Technical Skills
 - **Programming Languages**
-    - Fluent: Python, JavaScript/TypeScript, Go
-    - Proficient: SQL, Bash
+    - Fluent: Python, JavaScript/TypeScript
+    - Proficient: Go, SQL, Bash
 - **Technologies**
-    - Frontend: HTML5, CSS3, React, Redux, NextJS
-    - Backend: Django, FastAPI, NodeJS, GNU/Linux, Heroku
-    - DevOps: Docker, AWS, GitHub Actions, CloudFormation
-    - Databases: PostgreSQL, SQLite, MongoDB, Firestore, DynamoDB
+    - Frontend: HTML5, CSS3, React, Redux
+    - Backend: FastAPI, NodeJS, NextJS, GNU/Linux
+    - DevOps: Docker, AWS, Azure, CI/CD, GitHub Actions, CloudFormation
+    - Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB
     - App Development: React Native, PWA
 - **Tools & Knowledge**
     - Git/GitHub
