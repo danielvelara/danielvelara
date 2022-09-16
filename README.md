@@ -105,3 +105,4 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 - System Design
 - Test Driven Development
 - Functional Programming with Haskell
+- SSG with Hugo
