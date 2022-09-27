@@ -69,7 +69,7 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 - **Technologies**
     - Frontend: HTML5, CSS3, React, Redux
     - Backend: FastAPI, NodeJS, NextJS, Hugo
-    - DevOps: GNU/Linux,Docker, AWS, Azure, CI/CD, GitHub Actions, CloudFormation
+    - DevOps: GNU/Linux,Docker, AWS, Azure, Serverless, CI/CD, GitHub Actions, CloudFormation
     - Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB
     - App Development: React Native, PWA
 - **Tools & Knowledge**
