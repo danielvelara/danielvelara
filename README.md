@@ -37,6 +37,14 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 
 --->
 
+- **SoftServe** (SoftServe, inc) - México (Remote)
+    > *Full Stack Engineer* | **Present**
+    - Developed multiple webapps as a full stack developer for one of the Canada’s leading companies in the mining industry
+    - Designing and building REST APIs in **Python/FastAPI** with **Azure Cosmos DB** and **Azure Data Explorer with KQL**
+    - Develop FE in **React/Redux/TypeScript** within MUI
+    - Close collaboration with Big Data developers, DevOps, QC and UX/UI with Scrum Ceremonies and Code Reviews
+    - Created and maintained unit tests suites (both FE and BE)
+    - Communicating with client: estimating, tasks planning, clarifying requirements, presenting changes to the stakeholders during demo sessions
 
 - **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
     > *R&D Software Engineering Intern* | June 2021 - July 2022
