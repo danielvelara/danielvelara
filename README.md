@@ -39,7 +39,6 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 
 - **SoftServe** (SoftServe, inc) - México (Remote)
     > *Full Stack Engineer* | **Present**
-    - Developed multiple webapps as a full stack developer for one of the Canada’s leading companies in the mining industry
     - Designing and building REST APIs in **Python/FastAPI** with **Azure Cosmos DB** and **Azure Data Explorer with KQL**
     - Develop FE in **React/Redux/TypeScript** within MUI
     - Close collaboration with Big Data developers, DevOps, QC and UX/UI with Scrum Ceremonies and Code Reviews
