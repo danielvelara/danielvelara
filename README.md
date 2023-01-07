@@ -86,7 +86,7 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
     - Unit Testing
     - OOP
     - Data Structures & Algorithms
-    - Security: HTTPS, OAuth2 & OpenID Connect, OWASP Top 10
+    - Security: HTTPS, OAuth2 & OIDC, JWT, OWASP Top 10
 - **Languages**
     - Spanish (Native)
     - English (Advanced): TOEFL C1
