@@ -74,9 +74,9 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
     - Fluent: Python, JavaScript/TypeScript
     - Proficient: Go, SQL, Bash
 - **Technologies**
-    - Frontend: HTML5, CSS3, React, Redux
-    - Backend: FastAPI, NodeJS, NextJS, Hugo
-    - DevOps: GNU/Linux,Docker, AWS, Azure, Serverless, CI/CD, GitHub Actions, CloudFormation
+    - Frontend: HTML5, CSS3, React, Redux, Hugo
+    - Backend: FastAPI, NodeJS, NextJS
+    - DevOps: GNU/Linux, Docker, AWS, Azure, Serverless, CI/CD, GitHub Actions, CloudFormation
     - Databases: PostgreSQL, SQLite, MongoDB, CouchDB, DynamoDB, CosmosDB
     - App Development: React Native, PWA
 - **Tools & Knowledge**
