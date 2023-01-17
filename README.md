@@ -111,5 +111,4 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 - Design Patterns
 - System Design
 - Test Driven Development
-- Functional Programming with Haskell
-- SSG with Hugo
+- Learning Rust
