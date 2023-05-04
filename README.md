@@ -39,11 +39,14 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 
 - **SoftServe** (SoftServe, inc) - México (Remote)
     > *Full Stack Engineer* | **Present**
-    - Designing and building REST APIs in **Python/FastAPI** with **Azure Cosmos DB** and **Azure Data Explorer with KQL**
+    - Designing and building REST APIs in **Python/FastAPI** with **Azure Cosmos DB** + **Azure Data Explorer with KQL**
     - Develop FE in **React/Redux/TypeScript** within MUI
     - Close collaboration with Big Data developers, DevOps, QC and UX/UI with Scrum Ceremonies and Code Reviews
     - Created and maintained unit tests suites (both FE and BE)
     - Communicating with client: estimating, tasks planning, clarifying requirements, presenting changes to the stakeholders during demo sessions
+    - Ensure high-quality and responsive design with a focus on user experience.
+    - Present changes and updates to stakeholders during demo sessions to ensure
+alignment with client expectations.
 
 - **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
     > *R&D Software Engineering Intern* | June 2021 - July 2022
@@ -74,15 +77,16 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
     - Fluent: Python, JavaScript/TypeScript
     - Proficient: Go, SQL, Bash
 - **Technologies**
-    - Frontend: HTML5, CSS3, React, Redux, Hugo
-    - Backend: FastAPI, NodeJS, NextJS
-    - DevOps: GNU/Linux, Docker, AWS, Azure, Serverless, CI/CD, GitHub Actions, CloudFormation
+    - Frontend: HTML5, CSS3, TailwindCSS, React, Redux, Hugo, MUI, Mantine, React Hook Form, React Query, React Router, Vite
+    - Backend: FastAPI, NodeJS, NextJS, Auth.js, Supabase
+    - Testing: TDD, RTL, Storybook, Jest/Vitest, Playwright
+    - DevOps: GNU/Linux, Docker, AWS, Azure, Vercel, Serverless, CI/CD, GitHub Actions, CloudFormation
     - Databases: PostgreSQL, SQLite, MongoDB, CouchDB, DynamoDB, CosmosDB
-    - App Development: React Native, PWA
+    - App Development: React Native + Expo, PWA
 - **Tools & Knowledge**
     - Git/GitHub
     - Project Management: Agile/Scrum, Jira, Azure DevOps
-    - Networking: REST API's, OpenAPI/Swagger, WebSockets
+    - Networking: REST API's, OpenAPI/Swagger, WebSockets, Traefik
     - Unit Testing
     - OOP
     - Data Structures & Algorithms
@@ -108,7 +112,4 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 
 
 ## Currently Learning
-- Design Patterns
-- System Design
-- Test Driven Development
-- Learning Rust
+- Learning Elixir + Phoenix + LiveView
