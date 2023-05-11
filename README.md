@@ -78,10 +78,10 @@ alignment with client expectations.
     - Proficient: Go, SQL, Bash
 - **Technologies**
     - Frontend: HTML5, CSS3, TailwindCSS, React, Redux, Hugo, MUI, Mantine, React Hook Form, React Query, React Router, Vite
-    - Backend: FastAPI, NodeJS, NextJS, Auth.js, Supabase
+    - Backend: FastAPI, NodeJS, Express, NextJS + Auth.js, Supabase, AWS Lambda
     - Testing: TDD, RTL, Storybook, Jest/Vitest, Playwright
-    - DevOps: GNU/Linux, Docker, AWS, Azure, Vercel, Serverless, CI/CD, GitHub Actions, CloudFormation
-    - Databases: PostgreSQL, SQLite, MongoDB, CouchDB, DynamoDB, CosmosDB
+    - DevOps: GNU/Linux, Docker, AWS, Azure, Vercel, Serverless, CI/CD, GitHub Actions
+    - Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB
     - App Development: React Native + Expo, PWA
 - **Tools & Knowledge**
     - Git/GitHub
