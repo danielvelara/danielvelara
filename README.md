@@ -81,7 +81,7 @@ alignment with client expectations.
     - Backend: FastAPI, NodeJS, Express, NextJS + Auth.js, Supabase, AWS Lambda
     - Testing: TDD, RTL, Storybook, Jest/Vitest, Playwright
     - DevOps: GNU/Linux, Docker, AWS, Azure, Vercel, Serverless, CI/CD, GitHub Actions
-    - Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB
+    - Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB, Prisma
     - App Development: React Native + Expo, PWA
 - **Tools & Knowledge**
     - Git/GitHub
