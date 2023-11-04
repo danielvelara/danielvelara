@@ -84,7 +84,7 @@ alignment with client expectations.
     - Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB, Prisma
     - App Development: React Native + Expo, PWA
 - **Tools & Knowledge**
-    - Git/GitHub
+    - Git, GitHub
     - Project Management: Agile/Scrum, Jira, Azure DevOps
     - Networking: REST API's, OpenAPI/Swagger, WebSockets, Traefik
     - Unit Testing
