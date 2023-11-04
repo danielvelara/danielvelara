@@ -77,7 +77,7 @@ alignment with client expectations.
     - Fluent: Python, JavaScript/TypeScript, Elixir
     - Proficient: Go, SQL, Bash
 - **Technologies**
-    - Frontend: HTML5, CSS3, TailwindCSS, React, Redux, LiveView, Hugo, MUI, Mantine, React Hook Form, React Query, React Router, Vite
+    - Frontend: HTML5, CSS3, TailwindCSS, React, Redux, LiveView
     - Backend: FastAPI, NodeJS, Express, NextJS + Auth.js, Phoenix, Supabase, AWS Lambda
     - Testing: TDD, RTL, Storybook, Jest/Vitest, Playwright
     - DevOps: GNU/Linux, Docker, AWS, Azure, Vercel, Serverless, CI/CD, GitHub Actions
