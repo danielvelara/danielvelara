@@ -74,19 +74,19 @@ alignment with client expectations.
 
 ## Technical Skills
 - **Programming Languages**
-    - Fluent: Python, JavaScript/TypeScript, Elixir
+    - Fluent: Python, JavaScript, Elixir
     - Proficient: Go, SQL, Bash
 - **Technologies**
-    - Frontend: HTML5, CSS3, TailwindCSS, React, Redux, LiveView
-    - Backend: FastAPI, NodeJS, Express, NextJS + Auth.js, Phoenix, Supabase, AWS Lambda
-    - Testing: TDD, RTL, Storybook, Jest/Vitest, Playwright
-    - DevOps: GNU/Linux, Docker, AWS, Azure, Vercel, Serverless, CI/CD, GitHub Actions
-    - Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB, Prisma
-    - App Development: React Native + Expo, PWA
+    - Frontend: HTML5, CSS3, TailwindCSS, React, LiveView
+    - Backend: FastAPI, NextJS, Phoenix, AWS Lambda
+    - Testing: TDD, Storybook, Jest/Vitest, Playwright
+    - DevOps: GNU/Linux, Docker, Nix, AWS, Serverless, CI/CD, GitHub Actions
+    - Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB
+    - App Development: React Native
 - **Tools & Knowledge**
     - Git, GitHub
     - Project Management: Agile/Scrum, Jira, Azure DevOps
-    - Networking: REST API's, OpenAPI/Swagger, WebSockets, Traefik
+    - Networking: REST API's, OpenAPI/Swagger, WebSockets
     - Unit Testing
     - OOP
     - Data Structures & Algorithms
@@ -109,7 +109,3 @@ alignment with client expectations.
     - Built an Agent-based modeling simulation using **Python3** and **Mesa Framework** for simulating how the Covid-19 virus would spread depending on multiple variables such as vaccination, population density, age, mobility, social distancing, and use of face masks.
 - [**ToDo's online service**](https://github.com/danielvelara/SlackyToDo), Summer 2020
     - Implemented a CRUD WebApp using the **MVC** Pattern with **Python/Flask** (Backend) and **HTML/CSS/Vanilla JS** (frontend) with User Authentication/Authorization/Sessions with **Firebase** + **SQLite** as the backend database for the service.
-
-
-## Currently Learning
-- Learning Elixir + Phoenix + LiveView
