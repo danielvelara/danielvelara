@@ -74,20 +74,23 @@ alignment with client expectations.
 
 ## Technical Skills
 - **Programming Languages**
-    - Fluent: Python, JavaScript, Elixir
-    - Proficient: Go, SQL, Bash
+    - Python
+    - JavaScript
+    - Elixir
+    - Go
+    - SQL
+    - Bash
 - **Technologies**
     - Frontend: HTML5, CSS3, TailwindCSS, React, LiveView
     - Backend: FastAPI, NextJS, Phoenix, AWS Lambda
-    - Testing: TDD, Storybook, Jest/Vitest, Playwright
+    - Testing: TDD, Jest/Vitest, Playwright, ExUnit
     - DevOps: GNU/Linux, Docker, Nix, AWS, Serverless, CI/CD, GitHub Actions
-    - Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB
+    - Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB, Ecto
     - App Development: React Native
 - **Tools & Knowledge**
     - Git, GitHub
     - Project Management: Agile/Scrum, Jira, Azure DevOps
     - Networking: REST API's, OpenAPI/Swagger, WebSockets
-    - Unit Testing
     - OOP
     - Data Structures & Algorithms
     - Security: HTTPS, OAuth2 & OIDC, JWT, OWASP Top 10
