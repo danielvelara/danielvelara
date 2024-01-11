@@ -83,7 +83,7 @@ alignment with client expectations.
     - SQL
     - Bash
 - **Technologies**
-    - Frontend: HTML5, CSS3, TailwindCSS, React, LiveView
+    - Frontend: HTML5, CSS3, TailwindCSS, React, LiveView, Alpine.js
     - Backend: FastAPI, NextJS, Phoenix, AWS Lambda
     - Testing: TDD, Jest/Vitest, Playwright, ExUnit
     - DevOps: GNU/Linux, Docker, Nix, AWS, Serverless, CI/CD, GitHub Actions
