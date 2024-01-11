@@ -37,8 +37,10 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 
 --->
 
+- **C3.ai** - Guadalajara, Mexico
+    > Software Solution Engineer | October 2023 - **Present**
 - **SoftServe** (SoftServe, inc) - México (Remote)
-    > *Full Stack Engineer* | **Present**
+    > *Full Stack Engineer* | July 2022 - September 2023
     - Designing and building REST APIs in **Python/FastAPI** with **Azure Cosmos DB** + **Azure Data Explorer with KQL**
     - Develop FE in **React/Redux/TypeScript** within MUI
     - Close collaboration with Big Data developers, DevOps, QC and UX/UI with Scrum Ceremonies and Code Reviews
