@@ -85,7 +85,7 @@ alignment with client expectations.
 - **Technologies**
     - Frontend: HTML5, CSS3, TailwindCSS, React, LiveView, Alpine.js
     - Backend: FastAPI, NextJS, Phoenix, AWS Lambda
-    - Data: Job Scheduling, MapReduce
+    - Data: Job Scheduling, MapReduce, Queues
     - Testing: TDD, Jest/Vitest, Playwright, ExUnit
     - DevOps: GNU/Linux, Docker, Nix, AWS, Serverless, CI/CD, GitHub Actions
     - Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB, Ecto
@@ -93,8 +93,8 @@ alignment with client expectations.
 - **Tools & Knowledge**
     - Git, GitHub
     - Project Management: Agile/Scrum, Jira, Azure DevOps
-    - Networking: REST API's, OpenAPI/Swagger, WebSockets
-    - OOP
+    - Networking: REST API's, WebSockets, GraphQL
+    - OOP & FP
     - Data Structures & Algorithms
     - Security: HTTPS, OAuth2 & OIDC, JWT, OWASP Top 10
 - **Languages**
