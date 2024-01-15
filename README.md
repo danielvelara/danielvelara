@@ -97,9 +97,12 @@ alignment with client expectations.
     - OOP & FP
     - Data Structures & Algorithms
     - Security: HTTPS, OAuth2 & OIDC, JWT, OWASP Top 10
-- **Languages**
-    - Spanish (Native)
-    - English (Advanced): TOEFL C1
+
+## Languages
+
+- Spanish (Native)
+- English (Business fluent)
+
 
 ## Relevant Coursework & Certifications
 - **AWS Certified Developer Associate** by *AWS Training and Certification*
