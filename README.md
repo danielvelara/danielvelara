@@ -44,6 +44,11 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
     - Implement custom ML applications for the Enterprise.
     – Leveraged graph nodes to build out an anti-money laundering demo use case
     – Developed end-to-end Ex Machina demo for prospective healthcare customer
+- Client-facing, full-stack role.
+- Implement custom ML applications for the Enterprise (manufacturing, oil & gas, utilities, retail, etc)
+– Engaged directly with post-sales customers to refine roadmap and drive user adoption, engaged directly with pre-sales customers to showcase capabilities of the C3 Platform and products, including live software demos for Fortune 500 companies
+– Worked cross-functionally with the C3 products team to incorporate field feedback into core product offerings and with C3 platform team to design, build, test, and release revamped C3 AI Platform V8
+
 - **SoftServe** (SoftServe, inc) - México (Remote)
     > *Full Stack Engineer* | July 2022 - September 2023
     - Designing and building REST APIs in **Python/FastAPI** with **Azure Cosmos DB** + **Azure Data Explorer with KQL**
