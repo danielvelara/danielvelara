@@ -39,6 +39,11 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 
 - **C3.ai** - Guadalajara, Mexico
     > Software Solution Engineer | October 2023 - **Present**
+    - Client-facing, full-stack role
+    – Prototyped and engineered enterprise applications for
+    - Implement custom ML applications for the Enterprise.
+    – Leveraged graph nodes to build out an anti-money laundering demo use case
+    – Developed end-to-end Ex Machina demo for prospective healthcare customer
 - **SoftServe** (SoftServe, inc) - México (Remote)
     > *Full Stack Engineer* | July 2022 - September 2023
     - Designing and building REST APIs in **Python/FastAPI** with **Azure Cosmos DB** + **Azure Data Explorer with KQL**
