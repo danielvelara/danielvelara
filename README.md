@@ -40,15 +40,9 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
 - **C3.ai** - Guadalajara, Mexico
     > Software Solution Engineer | October 2023 - **Present**
     - Client-facing, full-stack role
-    – Prototyped and engineered enterprise applications for
-    - Implement custom ML applications for the Enterprise.
-    – Leveraged graph nodes to build out an anti-money laundering demo use case
-    – Developed end-to-end Ex Machina demo for prospective healthcare customer
-- Client-facing, full-stack role.
-- Implement custom ML applications for the Enterprise (manufacturing, oil & gas, utilities, retail, etc)
-– Engaged directly with post-sales customers to refine roadmap and drive user adoption, engaged directly with pre-sales customers to showcase capabilities of the C3 Platform and products, including live software demos for Fortune 500 companies
-– Worked cross-functionally with the C3 products team to incorporate field feedback into core product offerings and with C3 platform team to design, build, test, and release revamped C3 AI Platform V8
-
+    - Prototyped and engineered enterprise ML applications for the Enterprise (manufacturing, oil & gas, utilities, etc)
+    - Engaged directly with post-sales customers to refine roadmap and drive user adoption, engaged directly with pre-sales customers to showcase capabilities of the C3 Platform and products, including live software demos for Fortune 500 companies
+    - Worked cross-functionally with the C3 products team to incorporate field feedback into core product offerings and with C3 platform team to design, build, test, and release revamped C3 AI Platform V8
 - **SoftServe** (SoftServe, inc) - México (Remote)
     > *Full Stack Engineer* | July 2022 - September 2023
     - Designing and building REST APIs in **Python/FastAPI** with **Azure Cosmos DB** + **Azure Data Explorer with KQL**
@@ -57,9 +51,7 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
     - Created and maintained unit tests suites (both FE and BE)
     - Communicating with client: estimating, tasks planning, clarifying requirements, presenting changes to the stakeholders during demo sessions
     - Ensure high-quality and responsive design with a focus on user experience.
-    - Present changes and updates to stakeholders during demo sessions to ensure
-alignment with client expectations.
-
+    - Present changes and updates to stakeholders during demo sessions to ensure alignment with client expectations.
 - **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
     > *R&D Software Engineering Intern* | June 2021 - July 2022
     - Developed and refactored internal tools using modern web technologies with **React/Redux**
