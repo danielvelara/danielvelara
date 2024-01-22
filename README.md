@@ -43,6 +43,9 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
     - Prototyped and engineered enterprise ML applications for the Enterprise (manufacturing, oil & gas, utilities, etc)
     - Engaged directly with post-sales customers to refine roadmap and drive user adoption, engaged directly with pre-sales customers to showcase capabilities of the C3 Platform and products, including live software demos for Fortune 500 companies
     - Worked cross-functionally with the C3 products team to incorporate field feedback into core product offerings and with C3 platform team to design, build, test, and release revamped C3 AI Platform V8
+    - Analyzed client needs and business requirements to propose suitable software solutions
+    - Conduct feasibility studies and assesses technical risks associated with proposed solutions
+    - Adapt to changing requirements and addresses unforeseen challenges.
 - **SoftServe** (SoftServe, inc) - México (Remote)
     > *Full Stack Engineer* | July 2022 - September 2023
     - Designing and building REST APIs in **Python/FastAPI** with **Azure Cosmos DB** + **Azure Data Explorer with KQL**
