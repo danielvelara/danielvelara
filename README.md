@@ -7,6 +7,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
 
+<!--- 
 
 ## Education
 - [**Instituto Tecnológico y de Estudios Superiores de Monterrey**](https://certificados.tec.mx/certificate/8306f2d6b56a576ba10a016b77a68c0f) (ITESM) - Guadalajara, Jalisco, México
@@ -15,27 +16,6 @@
   > *C Piscine* | Winter 2020
 
 ## Work Experience
-
-<!--- Accomplish X as measured by Y by doing Z --->
-<!--- Include Team Player/People-oriented/Problem Solving/ Adaptability/Time Management/Communication Skills --->
-
-<!--- 
-Keywords
-Administrative: Accompilshed Administered Approved Arranged Classified Compiled Developed Documented Maintained Manage Monitored Operated Organized Prepared Prioritized Provided Purchased Recorded Resolved Retrieved Screened Systematized
-Communication: Advixed, Arranged Clarified Communicated Conducted Contributed Coordinated Defined Enlisted Explained Helped Inpired Motivated Spoke
-Management:Accomplished Achieved Administered Analyzed Appointed Assessed Chaired Coached Consulted Contracted Controlled Coordinated Developed Directed Established Evaluated Examined Executed Implemented Improved Increased Initiated Managed Organized Planned Prepared Prioritized Produced Reviewed
-Helping: Advised Assessed Coordinated Diagnosed Facilitated Provided Served
-Creative: Apapted Crafted Designed Developed Founded Invented
-Researc: Calculated, Collected, Discovered, Evaluated, Identified, Organized, Tested
-Technical: Administed, Analyzed, Built, Constructed, Developed, Maintained, Operated, Oversaw, Programmed, Tested
-Financial: Administered, Allocated, Appraised, Audited, Budgeted, Calculated, Developed, Forecasted, Invested
-Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
-
-- **SoftServe**  - Guadalajara, Jalisco, México
-    > *Fullstack Software Engineering* | August 2022 - Present
-    - Developing modern and scalable web applications with **React/Redux/TypeScript** + **Python/FastAPI** with **Azure**
-
---->
 
 - **C3.ai** - Guadalajara, Mexico
     > Software Solution Engineer | October 2023 - **Present**
@@ -59,7 +39,6 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
     > *R&D Software Engineering Intern* | June 2021 - July 2022
     - Developed and refactored internal tools using modern web technologies with **React/Redux**
     - Assisted the DevOps team to migrate legacy applications to **AWS** using **CloudFormation**
-    <!--- - Reduced deploy time up-to 70% by implementing a CI/CD pipeline using AWS CodeCommit which helped product managers validate features 2x faster.--->
     - Collaborated with multi-national and cross-functional teams using **Agile** methodologies 
 - **Uber México** - Guadalajara, Jalisco, México
     > *Software Engineering Academic Apprenticeship* | March 2021 - June 2021
@@ -123,3 +102,5 @@ Teaching: Advixed, Coached, Coordinated, Guided, Instructed, Trained, Taught
     - Built an Agent-based modeling simulation using **Python3** and **Mesa Framework** for simulating how the Covid-19 virus would spread depending on multiple variables such as vaccination, population density, age, mobility, social distancing, and use of face masks.
 - [**ToDo's online service**](https://github.com/danielvelara/SlackyToDo), Summer 2020
     - Implemented a CRUD WebApp using the **MVC** Pattern with **Python/Flask** (Backend) and **HTML/CSS/Vanilla JS** (frontend) with User Authentication/Authorization/Sessions with **Firebase** + **SQLite** as the backend database for the service.
+
+--->
