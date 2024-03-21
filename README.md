@@ -7,6 +7,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
 
+```txt
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGHxkSIBEACnofdDf9MhtN4DIMp0mkOdKfBqS3cTyVDE64YQ3QQbjih5nXIB
@@ -59,6 +60,7 @@ gL2+TUBiCsgqzM7m73tupOjrUlO5za7KJ9ayRyaBhZafa36tyErMyj21IwA3N13z
 LabYwu+R/7AMdKF9v5GX6B24
 =gfFf
 -----END PGP PUBLIC KEY BLOCK-----
+```
 
 <!--- 
 
