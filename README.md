@@ -62,7 +62,6 @@ LabYwu+R/7AMdKF9v5GX6B24
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-<!--- 
 
 ## Education
 - [**Instituto Tecnológico y de Estudios Superiores de Monterrey**](https://certificados.tec.mx/certificate/8306f2d6b56a576ba10a016b77a68c0f) (ITESM) - Guadalajara, Jalisco, México
@@ -157,5 +156,3 @@ LabYwu+R/7AMdKF9v5GX6B24
     - Built an Agent-based modeling simulation using **Python3** and **Mesa Framework** for simulating how the Covid-19 virus would spread depending on multiple variables such as vaccination, population density, age, mobility, social distancing, and use of face masks.
 - [**ToDo's online service**](https://github.com/danielvelara/SlackyToDo), Summer 2020
     - Implemented a CRUD WebApp using the **MVC** Pattern with **Python/Flask** (Backend) and **HTML/CSS/Vanilla JS** (frontend) with User Authentication/Authorization/Sessions with **Firebase** + **SQLite** as the backend database for the service.
-
---->
