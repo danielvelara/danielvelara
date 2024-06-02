@@ -18,71 +18,42 @@
 
 - **C3.ai** - Guadalajara, Mexico
     > Software Solution Engineer | October 2023 - **Present**
-    - Client-facing, full-stack role
-    - Prototyped and engineered enterprise ML applications for the Enterprise (manufacturing, oil & gas, utilities, etc)
-    - Engaged directly with post-sales customers to refine roadmap and drive user adoption, engaged directly with pre-sales customers to showcase capabilities of the C3 Platform and products, including live software demos for Fortune 500 companies
-    - Worked cross-functionally with the C3 products team to incorporate field feedback into core product offerings and with C3 platform team to design, build, test, and release revamped C3 AI Platform V8
-    - Analyzed client needs and business requirements to propose suitable software solutions
-    - Conduct feasibility studies and assesses technical risks associated with proposed solutions
-    - Adapt to changing requirements and addresses unforeseen challenges.
-- **SoftServe** (SoftServe, inc) - México (Remote)
+    - Development and productionalization of custom-made proprietary ML/AI applications delivering clear business value for a variety of industries (Energy Management, Demand Forecasting, Process Optimization) while establishing communication with key stakeholders (tasks planning, requirement clarification, presentations) and close collaboration with Data Engineers, Data Scientists, DevOps, QA, Designers and Project Managers
+- **SoftServe** - México (Remote)
     > *Full Stack Engineer* | July 2022 - September 2023
-    - Designing and building REST APIs in **Python/FastAPI** with **Azure Cosmos DB** + **Azure Data Explorer with KQL**
-    - Develop FE in **React/Redux/TypeScript** within MUI
-    - Close collaboration with Big Data developers, DevOps, QC and UX/UI with Scrum Ceremonies and Code Reviews
-    - Created and maintained unit tests suites (both FE and BE)
-    - Communicating with client: estimating, tasks planning, clarifying requirements, presenting changes to the stakeholders during demo sessions
-    - Ensure high-quality and responsive design with a focus on user experience.
-    - Present changes and updates to stakeholders during demo sessions to ensure alignment with client expectations.
+    - Worked on a real-time WebApp using the PETAL stack (Phoenix, Elixir, TailwindCSS, Alpine.js, LiveView) with PostgreSQL + Ecto leveraging the OTP architecture with custom GenServers and unit tests with ExUnit
+    - Designed REST APIs in Python (FastAPI) with Azure CosmosDB + Azure Data Explorer + KQL and frontend UI's in React / Redux + TailwindCSS.
 - **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
     > *R&D Software Engineering Intern* | June 2021 - July 2022
-    - Developed and refactored internal tools using modern web technologies with **React/Redux**
-    - Assisted the DevOps team to migrate legacy applications to **AWS** using **CloudFormation**
-    - Collaborated with multi-national and cross-functional teams using **Agile** methodologies 
+    - Implementation of a Serverless architecture, reducing operational costs and improving scalability. Utilized AWS Lambda (Go) , API Gateway , S3 , DynamoDB , and CloudWatch for a fully serverless stack.
+    - Developed and refactored internal tools using React/Redux/MaterialUI with collaboration of multi-national and cross-functional teams using Agile. 
 - **Uber México** - Guadalajara, Jalisco, México
     > *Software Engineering Academic Apprenticeship* | March 2021 - June 2021
-    - Assisted the Analytics Team on refactoring multiple Jupyter Notebooks into a fully featured microservice with **Python/FastAPI** and deployed using **Docker** by distilling and analyzing critical parts of the codebase and making a fully working PoC internal service.
-- **Usuma México** (Non-Profit Education Center) - Guadalajara, Jalisco, México
-    > *Web Developer (Volunteering)* | Dec 2020 - February 2021
-    - Created and maintained a website using **HTML/CSS/JS** deployed to **Heroku** for a Non-Profit focused on educating children from low-income families
-    - Implemented a **Paypal** donations feature, increasing donations by (15%) compared to previous months and donation methods.
-- **Bright** (Solar Technology Company) - Guadalajara, Jalisco, México
-    > *Software Development Intern & Sales Rep* | June 2019 - Jan 2020
-    - Developed **Python** Scripts for automating and accelerating in-house systems for project budgeting reducing **90%** of manual work for the Sales Team
-    - Competitively analyzed new domestic solar projects in local and regional territories
-    - Performed comprehensive market research on multiple solar technologies
-- **DMSolar** (Solar Energy Distributor) - Guadalajara, Jalisco, México
-    > *IT Assistant* | Summer 2018
-    - Help the company staff to enforce multiple cybersecurity protection policies
-    - Assisted in the migration of G-Suite to Office 365 across the company
-    - Generated automated daily reports **five times faster** for the Sales team using **SAP** compared to the previous Excel implementation
-
+    - Helped the Analytics Team to refactor Jupyter Notebooks into a microservice with Python/FastAPI and deployed using Docker by analyzing critical parts of the codebase and making a fully working internal service.
 ## Technical Skills
 - **Programming Languages**
-    - Python
-    - JavaScript
     - Elixir
     - Go
+    - Python
+    - JavaScript
     - SQL
     - Bash
 - **Technologies**
-    - Frontend: HTML5, CSS3, TailwindCSS, React, LiveView, Alpine.js
-    - Backend: FastAPI, NextJS, Phoenix, AWS Lambda
+    - Frontend: HTML5, CSS3, TailwindCSS, React, LiveView
+    - Backend: Phoenix/LiveView, NextJS, FastAPI, AWS Lambda
     - Data: Job Scheduling, MapReduce, Queues
     - Testing: TDD, Jest/Vitest, Playwright, ExUnit
     - DevOps: GNU/Linux, Docker, Nix, AWS, Serverless, CI/CD, GitHub Actions
-    - Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB, Ecto
+    - Databases: PostgreSQL, SQLite, MongoDB
     - App Development: React Native
 - **Tools & Knowledge**
-    - Git, GitHub
+    - Git/GitHub
     - Project Management: Agile/Scrum, Jira, Azure DevOps
     - Networking: REST API's, WebSockets, GraphQL
-    - OOP & FP
     - Data Structures & Algorithms
-    - Security: HTTPS, OAuth2 & OIDC, JWT, OWASP Top 10
+    - Security: HTTPS, OAuth2 & OIDC, JWT
 
 ## Languages
-
 - Spanish (Native)
 - English (Business fluent)
 
