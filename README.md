@@ -39,16 +39,15 @@
     - SQL
     - Bash
 - **Technologies**
-    - Frontend: HTML5, CSS3, TailwindCSS, React, LiveView
-    - Backend: Phoenix/LiveView, NextJS, FastAPI, AWS Lambda
+    - Frontend: HTML5, CSS3, TailwindCSS, React/Native/NextJS, LiveView
+    - Backend: Phoenix/LiveView, FastAPI, AWS Lambda
     - Data: Job Scheduling, MapReduce, Queues
     - Testing: TDD, Jest/Vitest, Playwright, ExUnit
     - DevOps: GNU/Linux, Docker, Nix, AWS, Serverless, CI/CD, GitHub Actions
     - Databases: PostgreSQL, SQLite, MongoDB
-    - App Development: React Native
 - **Tools & Knowledge**
     - Git/GitHub
-    - Project Management: Agile/Scrum, Jira, Azure DevOps
+    - Project Management: Agile/Scrum, Jira
     - Networking: REST API's, WebSockets, GraphQL
     - Data Structures & Algorithms
     - Security: HTTPS, OAuth2 & OIDC, JWT
@@ -56,7 +55,6 @@
 ## Languages
 - Spanish (Native)
 - English (Business fluent)
-
 
 
 ```txt
