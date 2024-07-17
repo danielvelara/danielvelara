@@ -1,6 +1,4 @@
 # 👋 Hi! I'm Daniel
-> ![](https://komarev.com/ghpvc/?username=danielvelara&color=red)
-
 
 ### Want to  read more [about me](https://danielvelara.github.io/about/)?
 
